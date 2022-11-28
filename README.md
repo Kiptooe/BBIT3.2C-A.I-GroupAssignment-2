@@ -1,2 +1,2 @@
-# BBIT3.2C-A.I-GroupAssignment-2
-A group assignment to implement Classification and Regression A.I models using real life examples
+# BBIT3.2C-A.I-Semester Project
+This is a group project that involves developing an AI model and deploying it to a mobile application.
